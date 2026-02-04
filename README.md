@@ -1,5 +1,5 @@
 # text2sql
-Simple natural language to SQL queries
+Simple natural language to SQL queries. Useful for SQL Practice
 <img width="1918" height="836" alt="image" src="https://github.com/user-attachments/assets/a3236e73-697b-424b-a464-879c8e3fb242" />
 
 
